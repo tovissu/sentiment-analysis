@@ -2,3 +2,6 @@ pandas
 scikit-learn
 sentence-transformers
 numpy
+transformers
+tensorflow_hub
+gensim
