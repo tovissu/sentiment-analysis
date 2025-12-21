@@ -1,5 +1,5 @@
 from src.data_loader import load_data
-from src.embedding import get_embeddings, get_embedding_model, call_embedding
+from src.embedding import get_embedding_model, call_embedding
 from src.sentiment_model import train_validate_sentiment_model
 from src.sentiment_prediction import predict_sentiment
 
